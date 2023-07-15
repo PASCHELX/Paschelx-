@@ -1,0 +1,38 @@
+body{
+  font-family: Arial;
+  background: /storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/IMG-20230714-WA0120.jpg;
+  background-position: center;
+  background-size: cover;
+  
+  
+}
+.welcome{
+  color: aquamarine;
+  font-size: 60px;
+}
+.top   span{
+  color  : black;
+}
+.info{
+  border:10px   solid  black;
+  padding:    20px;
+}
+
+b{
+  color:red;
+}
+h1{
+  color:red;
+}
+top{
+  color:blue;
+}
+p{
+  color:blue;
+}
+.head{
+  border: 5px     solid black;
+  padding: 9px;
+  font-family: arial;
+  font-size: 25px;
+}
